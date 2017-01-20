@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8C5257AF407B0D0A06C92756A3636BF39C1FC7C5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8C5257AF407B0D0A06C92756A3636BF39C1FC7C5" : 9223372036854775807,
+    "58DE4E33B2D56CA04406DA4B777FBB9CBE6C20C2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F0D9D866-3D5C-400B-9D39-09AF72A21227",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8C5257AF407B0D0A06C92756A3636BF39C1FC7C5" : "mvvmTxtField\/",
+    "58DE4E33B2D56CA04406DA4B777FBB9CBE6C20C2" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MVVMExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MVVMExample.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/futurice\/mvvm-example-objc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "58DE4E33B2D56CA04406DA4B777FBB9CBE6C20C2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zzz1234567\/mvvmTxtField.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8C5257AF407B0D0A06C92756A3636BF39C1FC7C5"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMExampleTests/ViewModels/PersonListViewModelTests.m"
+            timestampString = "506593440.851921"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "-testViewModelReturnsFullNames"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PersonListViewModelTests testViewModelReturnsFullNames]"
+                  moduleName = "MVVMExampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/askuznetsov/fromGit/mvvm-example-objc/MVVMExampleTests/ViewModels/PersonListViewModelTests.m"
+                  timestampString = "506593451.428527"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "267">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PersonListViewModelTests testViewModelReturnsFullNames]"
+                  moduleName = "MVVMExampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/askuznetsov/fromGit/mvvm-example-objc/MVVMExampleTests/ViewModels/PersonListViewModelTests.m"
+                  timestampString = "506593451.431157"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "355">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PersonListViewModelTests testViewModelReturnsFullNames]"
+                  moduleName = "MVVMExampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/askuznetsov/fromGit/mvvm-example-objc/MVVMExampleTests/ViewModels/PersonListViewModelTests.m"
+                  timestampString = "506593451.433667"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1039">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PersonListViewModelTests testViewModelReturnsFullNames]"
+                  moduleName = "MVVMExampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/askuznetsov/fromGit/mvvm-example-objc/MVVMExampleTests/ViewModels/PersonListViewModelTests.m"
+                  timestampString = "506593451.436319"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1130">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PersonListViewModelTests testViewModelReturnsFullNames]"
+                  moduleName = "MVVMExampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/askuznetsov/fromGit/mvvm-example-objc/MVVMExampleTests/ViewModels/PersonListViewModelTests.m"
+                  timestampString = "506593451.439063"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
